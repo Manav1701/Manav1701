@@ -15,7 +15,6 @@ Check out my latest project: [Food Delivery App](https://food-delivery-opal-seve
 - *(You can add more projects here later)*
 
 📈 GitHub Stats
-![Manav's GitHub stats](https://github-readme-stats.vercel.app/api?username=ManavPrajapati&show_icons=true&theme=radical)
 
 ## 📫 Connect with Me
 - GitHub: [ManavPrajapati](https://github.com/ManavPrajapati)
