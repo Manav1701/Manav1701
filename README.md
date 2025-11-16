@@ -7,7 +7,7 @@ Check out my latest project: [Food Delivery App](https://food-delivery-opal-seve
 
 ## 🔧 Skills
 - **Frontend:** React.js, HTML, CSS, JavaScript
-- **Backend:** Basic Node.js (if applicable)
+- **Backend:** Basic Node.js, Express js, MongoDB
 - **Tools:** VS Code, Git, GitHub, Vercel
 
 🚀 Projects
