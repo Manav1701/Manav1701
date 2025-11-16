@@ -1,16 +1,22 @@
-## Hi there 👋
+Hi, I'm Manav Prajapati 👋
 
-<!--
-**Manav1701/Manav1701** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💻 **React.js Developer** | Web Developer
 
-Here are some ideas to get you started:
+🌐 My Website
+Check out my latest project: [Food Delivery App](https://food-delivery-opal-seven.vercel.app/)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🔧 Skills
+- **Frontend:** React.js, HTML, CSS, JavaScript
+- **Backend:** Basic Node.js (if applicable)
+- **Tools:** VS Code, Git, GitHub, Vercel
+
+🚀 Projects
+- **Food Delivery App** - A full-featured responsive food delivery web application built with React.js and hosted on Vercel. [Live Demo](https://food-delivery-opal-seven.vercel.app/)
+- *(You can add more projects here later)*
+
+📈 GitHub Stats
+![Manav's GitHub stats](https://github-readme-stats.vercel.app/api?username=ManavPrajapati&show_icons=true&theme=radical)
+
+## 📫 Connect with Me
+- GitHub: [ManavPrajapati](https://github.com/ManavPrajapati)
+- Website: [Food Delivery Project](https://food-delivery-opal-seven.vercel.app/)
