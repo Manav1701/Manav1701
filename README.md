@@ -14,8 +14,4 @@ Check out my latest project: [Food Delivery App](https://food-delivery-opal-seve
 - **Food Delivery App** - A full-featured responsive food delivery web application built with React.js and hosted on Vercel. [Live Demo](https://food-delivery-opal-seven.vercel.app/)
 - *(You can add more projects here later)*
 
-📈 GitHub Stats
 
-## 📫 Connect with Me
-- GitHub: [ManavPrajapati](https://github.com/ManavPrajapati)
-- Website: [Food Delivery Project](https://food-delivery-opal-seven.vercel.app/)
